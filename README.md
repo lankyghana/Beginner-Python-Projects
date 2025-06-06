@@ -1,26 +1,31 @@
-🐍 Python Beginner Projects
+**🐍 Python Beginner Projects:**
+
 Welcome to my collection of beginner Python projects!
+
 This repository contains small projects I am building as I learn Python and practice my coding skills.
+
 Each project is designed to help me understand different concepts and apply them in fun and practical ways.
 
-Example Project List (update as you add more):
- Number Guessing Game
+**Example Project List:**
 
- Simple Calculator
+Number Guessing Game
 
- Dice Roller Simulator
+Simple Calculator
 
- Password Generator
+Dice Roller Simulator
 
- To-Do List (CLI)
+Password Generator
 
- Basic Web Scraper
+To-Do List (CLI)
 
- Flashcard App
+Basic Web Scraper
 
- Expense Tracker
+Flashcard App
 
-🎯 Why This Repository Exists
+Expense Tracker
+
+**🎯 Why This Repository Exists**
+
 To practice Python fundamentals
 
 To build a habit of learning by doing
@@ -29,8 +34,8 @@ To document my progress as a Python programmer
 
 To share my learning journey with others
 
-🚀 Technologies Used
+**🚀 Technologies Used**
 Python 3.x
 
-🤝 Contributing
+**Contributing**
 This is a personal learning repo, but if you'd like to suggest ideas or improvements, feel free to open an issue or pull request!
