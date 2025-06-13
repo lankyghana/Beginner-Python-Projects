@@ -10,19 +10,18 @@ Each project is designed to help me understand different concepts and apply them
 
 Number Guessing Game
 
+Rock,Paper & Scissor Game
+
 Simple Calculator
 
 Dice Roller Simulator
 
 Password Generator
 
-To-Do List (CLI)
+To-Do List 
 
-Basic Web Scraper
+Simple Student Grading System
 
-Flashcard App
-
-Expense Tracker
 
 **🎯 Why This Repository Exists**
 
